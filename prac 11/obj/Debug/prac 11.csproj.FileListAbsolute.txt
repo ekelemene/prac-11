@@ -1,0 +1,7 @@
+D:\Новая папка\практикумы\prac 11\bin\Debug\prac 11.exe.config
+D:\Новая папка\практикумы\prac 11\bin\Debug\prac 11.exe
+D:\Новая папка\практикумы\prac 11\bin\Debug\prac 11.pdb
+D:\Новая папка\практикумы\prac 11\obj\Debug\prac 11.csproj.AssemblyReference.cache
+D:\Новая папка\практикумы\prac 11\obj\Debug\prac 11.csproj.CoreCompileInputs.cache
+D:\Новая папка\практикумы\prac 11\obj\Debug\prac 11.exe
+D:\Новая папка\практикумы\prac 11\obj\Debug\prac 11.pdb
